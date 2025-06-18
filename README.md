@@ -64,5 +64,5 @@ This task helped me understand the importance of cloud security and how to imple
 
 final-kms-keyring-output.png
 
-
+![Image](https://github.com/user-attachments/assets/1ad439e0-a4e8-43c7-9ba0-5bad6fbc6332)
 
